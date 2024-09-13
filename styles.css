@@ -646,6 +646,18 @@ footer .socials i {
     font-size: .5rem;
     margin: -1em;
 }
+    footer .socials .facebook {
+    font-size: 50px;
+    position: fixed;
+    bottom: 20px; /* المسافة من الأسفل */
+    left: 20px; /* المسافة من اليسار */
+}
+footer .socials .whatsapp {
+    font-size: 50px;
+    position: fixed;
+    bottom: 20px; /* المسافة من الأسفل */
+    right: 20px; /* المسافة من اليسار */
+}
 }
 @media (max-width: 480px) {
 header {
